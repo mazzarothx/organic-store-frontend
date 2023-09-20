@@ -217,4 +217,3 @@ export async function getStaticProps({ params: { slug } }) {
         },
     };
 }
-
